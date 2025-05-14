@@ -8,6 +8,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KirillPolytech&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+![](https://komarev.com/ghpvc/?username=KirillPolytech&color=green)
+
 ## 🧠 My Stack
 
 **Languages**  
