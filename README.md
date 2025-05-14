@@ -1,6 +1,8 @@
 
 📚 My stack:
-Unity C# ![image](https://github.com/user-attachments/assets/6c37a32e-82f2-4ade-af76-7c8847122a0a)
+![image](https://github.com/user-attachments/assets/b99da19b-faf3-4ba5-a866-1c3683b98ec1)
+![image](https://github.com/user-attachments/assets/f4a8b205-81ca-4395-b2d0-2f7e1dc39fdc)
+![image](https://github.com/user-attachments/assets/6c37a32e-82f2-4ade-af76-7c8847122a0a)
 
 
 <!--
