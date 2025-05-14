@@ -1,6 +1,7 @@
 
 📚 My stack:
-Unity C# Blender
+Unity C# ![image](https://github.com/user-attachments/assets/6c37a32e-82f2-4ade-af76-7c8847122a0a)
+
 
 <!--
 **KirillPolytech/KirillPolytech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
