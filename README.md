@@ -6,6 +6,8 @@
 ### 🔥 GitHub Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KirillPolytech&theme=dark)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=KirillPolytech&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🧠 My Stack
 
 **Languages**  
