@@ -1,5 +1,5 @@
 ## My Projects
-- 🎮 [Shadow Dominion](https://github.com/твой-ник/GameDevProject) — 3D мультиплеер шутер от 3 лица с Ragdoll. Заморожен.
+- 🎮 [Shadow Dominion](https://github.com/KirillPolytech/Shadow_Dominion) — 3D мультиплеер (Mirror) шутер от 3 лица с Ragdoll. Заморожен.
 - 🎮 [Orbitium_Server_ASP.NET](https://github.com/KirillPolytech/Orbitium_Server_ASP.NET) — Серверное приложения для игры Orbitium.
 - 🎮 [Astronoid](https://github.com/KirillPolytech/Astronoid) — Игра для хакатона СИНЕУС 2024.
 - 🎮 [Crossword-generator](https://github.com/KirillPolytech/Crossword-generator) — Генератор кроссвордов на Unity.
