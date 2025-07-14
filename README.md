@@ -1,12 +1,12 @@
 ## My Projects
-- 🎮 [e-spc.ru](https://e-spc.ru/) — Сайт по продаже запчастей. Реализован Backend + Database + javascript на фронте.
+- 🌐 [e-spc.ru](https://e-spc.ru/) — Сайт по продаже запчастей. Реализован Backend + Database + javascript на фронте.
 - 🎮 [InTheLens](https://store.steampowered.com/app/3658080/V_obektive/) — "В Объективе" детская познавательная игра.
 - 🎮 [Shadow Dominion](https://github.com/KirillPolytech/Shadow_Dominion) — 3D мультиплеер (Mirror) шутер от 3 лица с Ragdoll. Заморожен.
-- 🎮 [Orbitium_Server_ASP.NET](https://github.com/KirillPolytech/Orbitium_Server_ASP.NET) — Серверное приложения для игры Orbitium.
+- 🌐 [Orbitium_Server_ASP.NET](https://github.com/KirillPolytech/Orbitium_Server_ASP.NET) — Серверное приложения для игры Orbitium.
 - 🎮 [Astronoid](https://github.com/KirillPolytech/Astronoid) — Игра для хакатона СИНЕУС 2024.
 - 🎮 [Tide Turner](https://mrnchr.itch.io/tide-turner) — Игра для MosPolyJam 2024.
-- 🎮 [Crossword-generator](https://github.com/KirillPolytech/Crossword-generator) — Генератор кроссвордов на Unity.
-- 🎮 [MosPolyJamHorrorGame](https://github.com/KirillPolytech/MosPolyJamHorrorGame) — Хоррор игра для MosPolyJam 2023.
+- 🧠 [Crossword-generator](https://github.com/KirillPolytech/Crossword-generator) — Генератор кроссвордов на Unity.
+- 👻 [MosPolyJamHorrorGame](https://github.com/KirillPolytech/MosPolyJamHorrorGame) — Хоррор игра для MosPolyJam 2023.
 
 
 ## 🧠 My Stack
