@@ -1,14 +1,14 @@
 ## My Projects
-- 🌐 [Tic-Tac-Toe](https://github.com/KirillPolytech/internship-entry-task) — REST API для игры в крестики нолики.
-- 🎮 [Sorter](https://github.com/KirillPolytech/Sorter_Test_Task) - Тестовая игра о сортировке фигур.
-- 🌐 [e-spc.ru](https://e-spc.ru/) — Сайт по продаже запчастей. Реализован Backend + Database + javascript на фронте.
-- 🎮 [InTheLens](https://store.steampowered.com/app/3658080/V_obektive/) — "В Объективе" детская познавательная игра.
-- 🎮 [Shadow Dominion](https://github.com/KirillPolytech/Shadow_Dominion) — 3D мультиплеер (Mirror) шутер от 3 лица с Ragdoll. Заморожен.
-- 🌐 [Orbitium_Server_ASP.NET](https://github.com/KirillPolytech/Orbitium_Server_ASP.NET) — Серверное приложения для игры Orbitium.
-- 🎮 [Astronoid](https://github.com/KirillPolytech/Astronoid) — Игра для хакатона СИНЕУС 2024.
-- 🎮 [Tide Turner](https://mrnchr.itch.io/tide-turner) — Игра для MosPolyJam 2024.
-- 🧠 [Crossword-generator](https://github.com/KirillPolytech/Crossword-generator) — Генератор кроссвордов на Unity.
-- 👻 [MosPolyJamHorrorGame](https://github.com/KirillPolytech/MosPolyJamHorrorGame) — Хоррор игра для MosPolyJam 2023.
+- 🌐 [Tic-Tac-Toe](https://github.com/KirillPolytech/internship-entry-task) — REST API для игры в крестики нолики. [ASP.NET]
+- 🎮 [Sorter](https://github.com/KirillPolytech/Sorter_Test_Task) - Тестовая игра о сортировке фигур.[UNITY]
+- 🌐 [e-spc.ru](https://e-spc.ru/) — Сайт по продаже запчастей. Реализован Backend + Database + javascript на фронте. [ASP.NET]
+- 🎮 [InTheLens](https://store.steampowered.com/app/3658080/V_obektive/) — "В Объективе" детская познавательная игра. [UNITY]
+- 🎮 [Shadow Dominion](https://github.com/KirillPolytech/Shadow_Dominion) — 3D мультиплеер (Mirror) шутер от 3 лица с Ragdoll. Заморожен. [UNITY]
+- 🌐 [Orbitium_Server_ASP.NET](https://github.com/KirillPolytech/Orbitium_Server_ASP.NET) — Серверное приложения для игры Orbitium. [ASP.NET]
+- 🎮 [Astronoid](https://github.com/KirillPolytech/Astronoid) — Игра для хакатона СИНЕУС 2024. [UNITY]
+- 🎮 [Tide Turner](https://mrnchr.itch.io/tide-turner) — Игра для MosPolyJam 2024. [UNITY]
+- 🧠 [Crossword-generator](https://github.com/KirillPolytech/Crossword-generator) — Генератор кроссвордов на Unity. [UNITY]
+- 👻 [MosPolyJamHorrorGame](https://github.com/KirillPolytech/MosPolyJamHorrorGame) — Хоррор игра для MosPolyJam 2023. [UNITY]
 
 
 ## 🧠 My Stack
