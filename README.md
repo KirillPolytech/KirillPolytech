@@ -1,21 +1,21 @@
 ## .NET
-- 🌐 [Advertising-platforms](https://github.com/KirillPolytech/Advertising-platforms) — REST API для управления рекламными площадками и загрузки данных из файла. [ASP.NET]
-- 🌐 [Tic-Tac-Toe](https://github.com/KirillPolytech/internship-entry-task) — REST API для игры в крестики нолики. [ASP.NET]
-- 🌐 [e-spc.ru](https://e-spc.ru/) — Сайт по продаже запчастей. Реализован Backend + Database + javascript на фронте. [ASP.NET]
-- 🌐 [Orbitium_Server_ASP.NET](https://github.com/KirillPolytech/Orbitium_Server_ASP.NET) — Серверное приложения для игры Orbitium. [ASP.NET]
+[ASP.NET] - 🌐 [Advertising-platforms](https://github.com/KirillPolytech/Advertising-platforms) — REST API для управления рекламными площадками и загрузки данных из файла.
+[ASP.NET] - 🌐 [Tic-Tac-Toe](https://github.com/KirillPolytech/internship-entry-task) — REST API для игры в крестики нолики.
+[ASP.NET] - 🌐 [e-spc.ru](https://e-spc.ru/) — Сайт по продаже запчастей. Реализован Backend + Database + javascript на фронте.
+[ASP.NET] - 🌐 [Orbitium_Server_ASP.NET](https://github.com/KirillPolytech/Orbitium_Server_ASP.NET) — Серверное приложения для игры Orbitium.
 
 ## Unity
-- 🎮 [2D_Platformer](https://github.com/KirillPolytech/2D_Platformer) - Тестовая игра-платформер. [UNITY]
-- 🎮 [Sorter](https://github.com/KirillPolytech/Sorter_Test_Task) - Тестовая игра о сортировке фигур. [UNITY]
-- 🎮 [InTheLens](https://store.steampowered.com/app/3658080/V_obektive/) — "В Объективе" детская познавательная игра. [UNITY]
-- 🎮 [Shadow Dominion](https://github.com/KirillPolytech/Shadow_Dominion) — 3D мультиплеер (Mirror) шутер от 3 лица с Ragdoll. [UNITY]
-- 🎮 [Astronoid](https://github.com/KirillPolytech/Astronoid) — Игра для хакатона СИНЕУС 2024. [UNITY]
-- 🎮 [Tide Turner](https://mrnchr.itch.io/tide-turner) — Игра для MosPolyJam 2024. [UNITY]
-- 🧠 [Crossword-generator](https://github.com/KirillPolytech/Crossword-generator) — Генератор кроссвордов на Unity. [UNITY]
-- 👻 [MosPolyJamHorrorGame](https://github.com/KirillPolytech/MosPolyJamHorrorGame) — Хоррор игра для MosPolyJam 2023. [UNITY]
+[UNITY] - 🎮 [2D_Platformer](https://github.com/KirillPolytech/2D_Platformer) - Тестовая игра-платформер.
+[UNITY] - 🎮 [Sorter](https://github.com/KirillPolytech/Sorter_Test_Task) - Тестовая игра о сортировке фигур.
+[UNITY] - 🎮 [InTheLens](https://store.steampowered.com/app/3658080/V_obektive/) — "В Объективе" детская познавательная игра.
+[UNITY] - 🎮 [Shadow Dominion](https://github.com/KirillPolytech/Shadow_Dominion) — 3D мультиплеер (Mirror) шутер от 3 лица с Ragdoll.
+[UNITY] - 🎮 [Astronoid](https://github.com/KirillPolytech/Astronoid) — Игра для хакатона СИНЕУС 2024.
+[UNITY] - 🎮 [Tide Turner](https://mrnchr.itch.io/tide-turner) — Игра для MosPolyJam 2024.
+[UNITY] - 🧠 [Crossword-generator](https://github.com/KirillPolytech/Crossword-generator) — Генератор кроссвордов на Unity.
+[UNITY] - 👻 [MosPolyJamHorrorGame](https://github.com/KirillPolytech/MosPolyJamHorrorGame) — Хоррор игра для MosPolyJam 2023.
 
 ## Android
-- 🤖 [AndroidNotesApp](https://github.com/KirillPolytech/AndroidNotesApp) - Приложение заметок для Android. [ANDROID]
+[ANDROID] - 🤖 [AndroidNotesApp](https://github.com/KirillPolytech/AndroidNotesApp) - Приложение заметок для Android.
 
 
 ## 🧠 My Stack
