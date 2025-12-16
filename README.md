@@ -5,7 +5,7 @@
 - 🌐 [Orbitium_Server_ASP.NET](https://github.com/KirillPolytech/Orbitium_Server_ASP.NET) — Серверное приложения для игры Orbitium.
 
 ## Unity Shaders
-- ✨ [Snow]() - Шейдер снега на ShaderGraph с поддержкой тесселяции.
+- ✨ [Snow](https://github.com/KirillPolytech/SnowShader) - Шейдер снега на ShaderGraph с поддержкой тесселяции.
 
 ## Unity
 - 🎮 [2D_Platformer](https://github.com/KirillPolytech/2D_Platformer) - Тестовая игра-платформер.
