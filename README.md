@@ -4,6 +4,9 @@
 - 🌐 [e-spc.ru](https://e-spc.ru/) — Сайт по продаже запчастей. Реализован Backend + Database + javascript.
 - 🌐 [Orbitium_Server_ASP.NET](https://github.com/KirillPolytech/Orbitium_Server_ASP.NET) — Серверное приложения для игры Orbitium.
 
+## Unity Shaders
+- ✨ [Snow]() - Шейдер снега на ShaderGraph с поддержкой тесселяции.
+
 ## Unity
 - 🎮 [2D_Platformer](https://github.com/KirillPolytech/2D_Platformer) - Тестовая игра-платформер.
 - 🎮 [Sorter](https://github.com/KirillPolytech/Sorter_Test_Task) - Тестовая игра о сортировке фигур.
