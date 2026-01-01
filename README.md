@@ -1,3 +1,6 @@
+## Java
+- 🌐 [Rotating Sphere](https://github.com/KirillPolytech/JavaRotatingSphere) — Вращающаяся 3D-сфера, отрисованная попиксельно с перспективой и простым освещением без библиотек.
+
 ## .NET
 - 🌐 [Advertising-platforms](https://github.com/KirillPolytech/Advertising-platforms) — REST API для управления рекламными площадками и загрузки данных из файла.
 - 🌐 [Tic-Tac-Toe](https://github.com/KirillPolytech/internship-entry-task) — REST API для игры в крестики нолики.
@@ -30,6 +33,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Frontend**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
