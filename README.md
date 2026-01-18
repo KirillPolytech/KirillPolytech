@@ -55,12 +55,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## Interesting
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillPolytech&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillPolytech)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillPolytech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KirillPolytech&theme=dark)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KirillPolytech&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KirillPolytech&theme=dark)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=KirillPolytech&color=green)
