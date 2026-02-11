@@ -10,6 +10,7 @@
 
 ## Unity Shaders
 - ✨ [Snow](https://github.com/KirillPolytech/SnowShader) - Шейдер снега на ShaderGraph с поддержкой тесселяции.
+- ✨ [Snow](https://assetstore.unity.com/packages/vfx/shaders/shader-graph-snow-shader-351402) - Шейдер снега в Asset Store.
 
 ## Unity
 - 🎮 [2D_Platformer](https://github.com/KirillPolytech/2D_Platformer) - Тестовая игра-платформер.
