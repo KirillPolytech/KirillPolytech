@@ -29,9 +29,6 @@
 ## PHP
 - [Ajax-programming](https://github.com/KirillPolytech/Ajax-programming) - Практика программирования с использованием Ajax.
 
-## Java
-- 🌐 [Rotating Sphere](https://github.com/KirillPolytech/JavaRotatingSphere) — Вращающаяся 3D-сфера, отрисованная попиксельно с перспективой и простым освещением без библиотек.
-
 
 ## 🧠 My Stack
 **Languages**  
