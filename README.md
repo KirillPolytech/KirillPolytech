@@ -3,9 +3,9 @@
 
 
 ## Unity
-- 🎮 [Crime and Concrete](https://bearer.itch.io/crime-and-concrete) - Third Person Shooter с элементами сюжетного детектива.
-- 🎮 [Burnout HellFire](https://bearer.itch.io/burnout-hellfire) - Динамичная гонка про погоню от огненного шара.
-- 🎮 [BroadCast](https://github.com/KirillPolytech/ChachaGame) - 2D головоломка про котика во время постапокалипсиса.
+- 🎮 [Crime and Concrete](https://bearer.itch.io/crime-and-concrete) - Third Person Shooter с элементами сюжетного детектива. Специально для хакатона CarX Technologies.
+- 🎮 [Burnout HellFire](https://bearer.itch.io/burnout-hellfire) - Динамичная гонка про погоню от огненного шара. Специально для гейм джема MospolyJam 2026
+- 🎮 [BroadCast](https://github.com/KirillPolytech/ChachaGame) - 2D головоломка про котика во время постапокалипсиса. Специально для хакатона "Игра" 2025.
 - 🎮 [2D_Platformer](https://github.com/KirillPolytech/2D_Platformer) - Тестовая игра-платформер.
 - 🎮 [Sorter](https://github.com/KirillPolytech/Sorter_Test_Task) - Тестовая игра о сортировке фигур.
 - 🎮 [InTheLens](https://store.steampowered.com/app/3658080/V_obektive/) — "В Объективе" детская познавательная игра.
